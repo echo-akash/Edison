@@ -1,3 +1,5 @@
+#Write Edison by using edison robot
+
 import Ed
 Ed.EdisonVersion = Ed.V2
 Ed.DistanceUnits = Ed.CM
